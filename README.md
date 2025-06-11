@@ -27,5 +27,5 @@ Looking for expert guidance from **Turi$mo** on setting up and optimizing my Nos
 
 **Payment**: 25,000 sats upon completion of comprehensive consultation. I'll post this on app.lightningbounties.com. Just x the boxes and send in PR with close keyword. 
 
-See here for detailed instructions ⬇️ 
+See here for detailed instructions -> 
 https://docs.lightningbounties.com/docs/getting-started/solving-a-bounty/working-on-the-bounty
